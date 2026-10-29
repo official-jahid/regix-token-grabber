@@ -6,7 +6,6 @@
   <p align="center">
     <img src="https://img.shields.io/badge/python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/license-GPL--2.0-green?style=for-the-badge" alt="License">
     <img src="https://img.shields.io/badge/release-v2.0-red?style=for-the-badge" alt="Release">
   </p>
 </p>
