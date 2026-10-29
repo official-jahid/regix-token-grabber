@@ -1,0 +1,4 @@
+pypiwin32>=223
+pycryptodome>=3.23.0
+pyinstaller>=6.17.0
+Pillow>=10.0.0
